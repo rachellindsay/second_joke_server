@@ -11,4 +11,4 @@ How to remover container:
 
 How to stop/remove the container in one step: 
     docker ps (to get the container id)
-    docker -rm -f (container id)
+    docker rm -f (container id)
